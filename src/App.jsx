@@ -3,7 +3,7 @@ import Home from "./Pages/Home.jsx";
 import Builder from "./Pages/Builder.jsx";
 import ATS from "./Pages/ATS.jsx";
 import Chatbot from "./Pages/Chatbot.jsx";
-import PDFPreview from "./Pages/PDFPreview.jsx";
+import PDFPreview from "./Components/PDFPreview.jsx";
 import "./App.css";
 function App() {
   return (
